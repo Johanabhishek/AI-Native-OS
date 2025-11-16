@@ -1,2 +1,3 @@
 # AI-Native-OS
 An ai native operating systems. 
+Stay tuned for updates about this. Currently under initial research phase....
