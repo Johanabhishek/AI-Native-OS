@@ -1,5 +1,5 @@
 # AI-Native-OS
-An ai native operating systems. 
+An ai native operating systems. UI means no more user interface. But User Intent. 
 
 ## 1 — Technical architecture (high level)
 
